@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashmit Brar</h1>
 <h3 align="center">I am a passionate 2nd Year Computer Science student.</h3>
 
-<img align ="right" alt = "coding" width = "400" src="![image](https://github.com/ashmitbrar/ashmitbrar/assets/122998932/363448f6-824a-4d85-8340-a039c6bcc625)
-">
+
 
 - 📫 How to reach me **abrar5007@conestogac.on.ca**
 
