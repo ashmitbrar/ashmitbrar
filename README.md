@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashmit Brar</h1>
-<h3 align="center">I am a passionate 2nd Year Computer Science student.</h3>
+<h3 align="center">I am a passionate 4th Year Computer Science student.</h3>
 
 
 
